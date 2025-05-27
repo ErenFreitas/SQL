@@ -1,7 +1,6 @@
 # 🐍 Aprendendo SQL 🚀
 
 Este repositório contém meus estudos e práticas com **SQL** — desde comandos básicos até consultas mais avançadas.  
-Ideal para quem está começando e quer aprender a manipular bancos de dados relacionais.
 
 ## 📚 Conteúdo
 
